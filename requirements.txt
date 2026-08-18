@@ -6,3 +6,4 @@ langchain-google-genai
 langgraph
 python-multipart
 sse-starlette
+nest_asyncio

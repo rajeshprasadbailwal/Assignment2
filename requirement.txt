@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+langchain-core
+langchain-google-genai
+langgraph
+python-multipart
+sse_starllette

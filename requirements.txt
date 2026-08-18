@@ -7,3 +7,4 @@ langgraph
 python-multipart
 sse-starlette
 nest_asyncio
+langserve
